@@ -1,2 +1,0 @@
-# BUG: The expected result is 'fancy fruit'
-checkBox name='fancy' nameFrom=relatedElement

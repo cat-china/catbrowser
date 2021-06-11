@@ -1,2 +1,0 @@
-# BUG: The expected result is 'foo baz'
-checkBox name=' bar ' nameFrom=title

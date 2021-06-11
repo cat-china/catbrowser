@@ -1,3 +1,0 @@
-[document web]
-++[landmark]
-++++[static] name='Chromium Browser'
