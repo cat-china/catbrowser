@@ -22,7 +22,7 @@
 
 查找替换
 
-熟练操作FrontPage/Dreamviewer
+熟练操作FrontPage/Dreamweaver
 
 加分项：
 
