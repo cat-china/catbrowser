@@ -1,4 +1,4 @@
-# 猫猫浏览器 - 全新自主研发，打破国外垄断
+# 猫猫浏览器 - 全新自主研发，打破国外垄断 & 比 Chrome 快 ```114514%```
 
 ### 猫猫浏览器是由 [猫猫中国](https://github.com/cat-china) 自主研发的全新网页浏览解决方案
 
@@ -18,24 +18,26 @@
 
 必需技能：
 
-从源码站下载源码
+- 从源码站下载源码
 
-查找替换
+- 查找(Ctrl+F)替换(Ctrl+H)
 
-熟练操作FrontPage/Dreamweaver
+- 熟练操作FrontPage/Dreamweaver
 
 加分项：
 
-会使用GitHub网页端
+- 会使用[GitHub网页端](https://github.com/)
 
-会使用F12开发人员工具
+- 会使用F12开发人员工具
 
-会使用HBuilder
+- 会使用HBuilder
 
-会使用GitHub Desktop
+- 会使用GitHub Desktop
 
-会使用Git GUI
+- 会使用Git GUI
 
-会使用Git Bash
+- 会使用Git Bash
 
 **有意者请将简历发送到hr@catcn.email**
+
+# *优秀简历会在此处展出*
