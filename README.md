@@ -1,5 +1,6 @@
-# 猫猫浏览器 - 全新自主研发，打破国外垄断 & 比 Chrome 快 ```114514%```
-
+# 猫猫浏览器 - 全新自主研发，打破国外垄断
+## 喜报：我们成功实现了比 Chrome 快 ```114514%```[1]的神话！
+##### [1]:该版本目前只能在我们实验室中的大型机上运行，数据为与在AMD K7 CPU上运行的Chrome对比得到
 ### 猫猫浏览器是由 [猫猫中国](https://github.com/cat-china) 自主研发的全新网页浏览解决方案
 
 #### [Q&A](https://github.com/cat-china/CatBrowser/blob/master/Question_And_Answer.md)
