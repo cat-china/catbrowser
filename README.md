@@ -12,4 +12,4 @@
 \*此处的“猫猫浏览器”指[OpenCatBrowser](https://github.com/cat-china/OpenCatBrowser)
 
 ---
-[猫猫招聘]()
+## [猫猫招聘](https://github.com/Cat-China/CatBrowser/blob/master/Cat-China-Recruitment.md)
