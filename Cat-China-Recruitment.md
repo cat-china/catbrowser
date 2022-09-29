@@ -1,2 +1,2 @@
 # 猫猫招聘
-###### Mail:hr@catcn.email
+###### Mail:catcn_hr@imayx.top
